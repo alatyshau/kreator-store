@@ -1,0 +1,24 @@
+theme: minima
+title: Kreator Store
+description: Витрина информационных систем, сгенерированных САПР Kreator
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+markdown: kramdown
+highlighter: rouge
+
+# Настройки сайта
+url: ""
+baseurl: ""
+
+# Исключения
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

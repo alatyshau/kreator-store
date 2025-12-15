@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Установка ИС "Очередники"
-permalink: /ocheredniki/
+title: Установка ИС "Библиотека"
+permalink: /biblioteka/
 ---
 
 <div class="hero" style="text-align: center; padding: 40px 0;">
-  <h1>Информационная Система "Очередники"</h1>
+  <h1>Информационная Система "Библиотека"</h1>
   <p class="lead">Пакет автоматизированного управления</p>
   
   <br>
   
-  <a href="./ocheredniki-0.0.2.vsix" class="btn-download" download>
+  <a href="./biblioteka-0.0.2.vsix" class="btn-download" download>
     📥 Скачать Систему (vsix)
   </a>
   
@@ -34,7 +34,7 @@ permalink: /ocheredniki/
 > ✅ *Если VS Code уже установлен, этот шаг можно пропустить.*
 
 ### Шаг 2. Установка расширения
-1. Скачайте файл **`ocheredniki-0.0.2.vsix`** по кнопке выше.
+1. Скачайте файл **`biblioteka-0.0.2.vsix`** по кнопке выше.
 2. Откройте VS Code.
 3. Откройте **View → Extensions** (Вид → Расширения) или нажмите `Ctrl+Shift+X` / `Cmd+Shift+X`.
 4. Нажмите **⋯** (три точки) в верхней части панели расширений.
@@ -70,14 +70,6 @@ permalink: /ocheredniki/
   color: white;
   text-decoration: none;
 }
-
-.hero {
-  background-color: #f6f8fa;
-  border-bottom: 1px solid #d0d7de;
-  margin-bottom: 30px;
-  border-radius: 6px;
-}
-</style>
 
 .hero {
   background-color: #f6f8fa;
